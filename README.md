@@ -2,7 +2,7 @@
 
 ## Business Software for Real Operations
 
-WorkflowDock develops custom business software, workflow automation systems and operational platforms for companies that need practical solutions to real-world processes.
+WorkflowDock develops software platforms that automate workflows, improve operational efficiency and simplify complex business processes.
 
 ---
 
@@ -12,9 +12,12 @@ WorkflowDock develops custom business software, workflow automation systems and 
 
 Production, Packaging & Container Loading Platform
 
-Industrial software for production planning, bundle optimization and shipment loading operations.
+Industrial software for manufacturers and logistics teams.
 
-➡️ View Project:
+![LoadMaster](images/loadmaster.png)
+
+### Project Link
+
 https://github.com/workflowdock/loadmaster
 
 ---
@@ -23,9 +26,12 @@ https://github.com/workflowdock/loadmaster
 
 Business Workflow & Approval Management Platform
 
-Approval workflows, customer access portals, digital signatures and business process tracking.
+Approval workflows, customer portals and digital signatures.
 
-➡️ View Project:
+![Nexus](images/nexus.png)
+
+### Project Link
+
 https://github.com/workflowdock/nexus
 
 ---
@@ -34,51 +40,45 @@ https://github.com/workflowdock/nexus
 
 Property Operations & Booking Management Platform
 
-Property management, booking operations, calendar management and iCal synchronization.
+Booking operations, property management and calendar synchronization.
 
-➡️ View Project:
+![StayFlow](images/stayflow.png)
+
+### Project Link
+
 https://github.com/workflowdock/stayflow
 
 ---
 
 ## 🦷 DentNow
 
-Emergency Dentist Availability Platform
-
-Real-time dentist availability and patient request management platform.
+Healthcare Availability & Emergency Request Platform
 
 Coming Soon.
 
 ---
 
-# Technologies
+# Core Expertise
+
+- Workflow Automation
+- SaaS Platforms
+- Logistics Software
+- Manufacturing Systems
+- Property Management
+- Internal Business Platforms
+
+---
+
+# Technology Stack
 
 - PHP
 - MySQL
 - JavaScript
 - REST APIs
 - Cron Automation
-- SaaS Architecture
 
 ---
 
-# Available For
-
-- Custom Web Applications
-- SaaS Development
-- Workflow Automation
-- Internal Business Platforms
-- Operational Dashboards
-- Process Digitization
-
----
-
-# WorkflowDock
-
-Building software that solves operational problems.
-
-## Contact
-
-Interested in a custom implementation?
+# Contact
 
 📧 workflowdock.team@proton.me
