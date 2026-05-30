@@ -78,7 +78,58 @@ Coming Soon.
 - Cron Automation
 
 ---
+# Additional Solutions
 
+## Business Management Systems
+
+### Dental Practice Manager
+Dental office management platform with X-Ray distribution, review requests, finance tracking, patient history and document workflows.
+
+---
+
+## Analytics & Automation
+
+### Analytics Suite
+Website analytics, visitor tracking and reporting tools.
+
+### Auto SEO
+Automated SEO optimization plugin.
+
+### Rank Viewer
+SEO rank monitoring and keyword tracking tool.
+
+### Daily Report
+Automated business reporting system.
+
+---
+
+## Learning Platforms
+
+### BA Learning Platform
+Business Analytics training platform with lessons, quizzes, progress tracking and performance analytics.
+
+---
+
+## Industrial Operations
+
+### MoT Order Forms
+Order management and product configuration tools for industrial panel workflows.
+
+---
+
+## Websites & Digital Presence
+
+### Creamplug
+E-commerce website.
+
+### Blue Jeans Barber
+Business website.
+
+### NewCityDentist
+Healthcare website.
+
+### MoTPanels.com
+Industrial corporate website.
 # Contact
 
 📧 workflowdock.team@proton.me
