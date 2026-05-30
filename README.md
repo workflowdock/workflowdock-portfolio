@@ -4,6 +4,8 @@
 
 WorkflowDock develops software platforms that automate workflows, improve operational efficiency and simplify complex business processes.
 
+Our work spans manufacturing, logistics, healthcare, property management, analytics, automation and digital business operations.
+
 ---
 
 # Featured Projects
