@@ -1,6 +1,6 @@
 # WorkflowDock
 
-## Business Software for Real Operations
+## ## Custom Software, SaaS Platforms & Operational Systems
 
 WorkflowDock develops software platforms that automate workflows, improve operational efficiency and simplify complex business processes.
 
@@ -60,24 +60,18 @@ Coming Soon.
 
 ---
 
-# Core Expertise
+# Services
 
+- Custom Business Software Development
+- SaaS Platform Development
 - Workflow Automation
-- SaaS Platforms
-- Logistics Software
-- Manufacturing Systems
-- Property Management
-- Internal Business Platforms
+- Internal Business Systems
+- Manufacturing & Logistics Solutions
+- Property Management Platforms
+- Healthcare Operations Software
+- Analytics & Reporting Systems
 
----
 
-# Technology Stack
-
-- PHP
-- MySQL
-- JavaScript
-- REST APIs
-- Cron Automation
 
 ---
 # Additional Solutions
@@ -132,6 +126,19 @@ Healthcare website.
 
 ### MoTPanels.com
 Industrial corporate website.
+
+---
+
+# Technology Stack
+
+- PHP
+- MySQL
+- JavaScript
+- HTML5
+- CSS3
+- REST APIs
+- Cron Automation
+- WordPress Development
 # Contact
 
 📧 workflowdock.team@proton.me
