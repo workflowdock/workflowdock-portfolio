@@ -141,4 +141,4 @@ Industrial corporate website.
 - WordPress Development
 # Contact
 
-📧 workflowdock.team@proton.me
+📧 dev@workflowdock.dev
